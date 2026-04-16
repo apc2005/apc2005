@@ -6,7 +6,7 @@ Desarrollador con enfoque en la intersección entre software robusto y análisis
 
 ---
 
-## 🛠️ Stack Técnico
+##  Stack Técnico
 
 ### Lenguajes & Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -33,7 +33,7 @@ Desarrollador con enfoque en la intersección entre software robusto y análisis
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 ### 🔍 [CV-Analyzer](https://github.com/PabloGonzGar/cv-analyze)
 > Sistema de clasificación automática de candidatos mediante análisis de afinidad con descripciones de puesto.
@@ -67,7 +67,7 @@ Demuestra habilidades en resolución de problemas algorítmicos complejos con l�
 
 ---
 
-## 📚 Formación
+##  Formación
 
 | Titulación | Centro |
 |---|---|
@@ -76,14 +76,14 @@ Demuestra habilidades en resolución de problemas algorítmicos complejos con l�
 
 ---
 
-## 💼 Experiencia
+##  Experiencia
 
 - **Desarrollo Frontend** — Proyectos de e-commerce de alta escala en sector IT
 - **Gestión Logística** — Optimización de cadenas de suministro; aporta visión pragmática sobre eficiencia de procesos
 
 ---
 
-## 📬 Contacto
+##  Contacto
 
 [![Gmail](https://img.shields.io/badge/antonio.perez.carmona.2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio.perez.carmona.2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-p%C3%A9rez-carmona-1b7a633a0/)

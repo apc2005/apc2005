@@ -1,15 +1,24 @@
 <h1 align="center">Antonio Pérez Carmona</h1>
+
 <p align="center">
-  <b>Desarrollador Web · IA & Big Data · Sevilla, España</b>
+  Desarrollador Web · Inteligencia Artificial · Big Data  
 </p>
 
 <p align="center">
-Desarrollador especializado en Inteligencia Artificial y Big Data. Enfocado en construir software robusto combinado con análisis avanzado de datos.
+  Sevilla, España · 
+  <a href="mailto:antonio.perez.carmona.2005@gmail.com">Email</a> · 
+  <a href="https://www.linkedin.com/in/antonio-p%C3%A9rez-carmona-1b7a633a0/">LinkedIn</a>
 </p>
 
 ---
 
-### ⚙️ Stack técnico
+### Perfil
+
+Desarrollador con especialización en Inteligencia Artificial y Big Data, enfocado en el desarrollo de software robusto y en el análisis avanzado de datos. Interesado en la lógica interna de los sistemas y en la optimización de procesos mediante soluciones técnicas eficientes.
+
+---
+
+### Stack Tecnológico
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,python,java,php,mysql,postgres,tensorflow,git" />
@@ -17,26 +26,26 @@ Desarrollador especializado en Inteligencia Artificial y Big Data. Enfocado en c
 
 ---
 
-### 🚀 Proyectos destacados
+### Proyectos Seleccionados
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🔍 CV-Analyzer  
-Sistema de clasificación automática de candidatos mediante NLP.
+<strong>CV-Analyzer</strong>  
+Sistema de clasificación automática de candidatos basado en análisis de afinidad semántica.
 
-`Python` `IA` `NLP`  
-👉 https://github.com/PabloGonzGar/cv-analyze
+Tecnologías: Python · NLP · Machine Learning  
+<a href="https://github.com/PabloGonzGar/cv-analyze">Repositorio</a>
 
 </td>
 <td width="50%">
 
-#### 🎬 VisionCine — TFG  
-Plataforma social de cine con APIs externas y sistema de usuarios.
+<strong>VisionCine</strong>  
+Plataforma social de cine con integración de APIs externas, perfiles de usuario y sistemas de puntuación.
 
-`PHP` `MySQL` `APIs`  
-👉 https://github.com/apc2005/VisionCine
+Tecnologías: PHP · MySQL · APIs REST  
+<a href="https://github.com/apc2005/VisionCine">Repositorio</a>
 
 </td>
 </tr>
@@ -44,11 +53,11 @@ Plataforma social de cine con APIs externas y sistema de usuarios.
 <tr>
 <td width="50%">
 
-#### 🧠 A* Pathfinding  
-Algoritmo de búsqueda de rutas óptimas en grids.
+<strong>A* Pathfinding</strong>  
+Implementación del algoritmo A* para cálculo de rutas óptimas en entornos con obstáculos.
 
-`Python` `Algoritmos`  
-👉 https://github.com/apc2005/A-Pathfinding
+Tecnologías: Python · Algoritmos  
+<a href="https://github.com/apc2005/A-Pathfinding">Repositorio</a>
 
 </td>
 <td></td>
@@ -57,27 +66,31 @@ Algoritmo de búsqueda de rutas óptimas en grids.
 
 ---
 
-### 🧭 Trayectoria
+### Experiencia Profesional
 
-- 🎓 Postgrado en IA y Big Data — Cámara de Comercio de Sevilla  
-- 💻 Técnico Superior en DAW  
-- 🛒 Desarrollo frontend en E-commerce  
-- 📦 Gestión logística y cadena de suministro  
+<strong>Agilia Center</strong> — Desarrollo Frontend (E-commerce)  
+Duración: 3 meses  
+- Desarrollo y mantenimiento de interfaces en entornos de comercio electrónico  
+- Trabajo con estructuras frontend orientadas a rendimiento y escalabilidad  
+
+<br>
+
+<strong>Tanva Aerofactory</strong> — Logística y Cadena de Suministro  
+Duración: 1 año  
+- Gestión de procesos logísticos y optimización de flujo de materiales  
+- Coordinación operativa en entorno industrial  
 
 ---
 
-### 📫 Contacto
+### Formación
+
+- Postgrado en Inteligencia Artificial y Big Data — Cámara de Comercio de Sevilla  
+- Técnico Superior en Desarrollo de Aplicaciones Web  
+
+---
+
+### Información Adicional
 
 <p>
-  📧 <a href="mailto:antonio.perez.carmona.2005@gmail.com">antonio.perez.carmona.2005@gmail.com</a><br>
-  💼 <a href="https://www.linkedin.com/in/antonio-p%C3%A9rez-carmona-1b7a633a0/">LinkedIn</a><br>
-  📍 Sevilla, España
-</p>
-
----
-
-### 🧠 Extra
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apc2005&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apc2005&show_icons=true&hide_border=true" />
 </p>

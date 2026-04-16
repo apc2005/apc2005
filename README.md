@@ -71,8 +71,8 @@ Demuestra habilidades en resolución de problemas algorítmicos complejos con l�
 
 | Titulación | Centro |
 |---|---|
-| 🎓 Postgrado en IA y Big Data | Campus Cámara de Comercio de Sevilla |
-| 💻 Técnico Superior en DAW | Desarrollo de Aplicaciones Web |
+| Postgrado en IA y Big Data | Campus Cámara de Comercio de Sevilla |
+| Técnico Superior en DAW | Desarrollo de Aplicaciones Web |
 
 ---
 

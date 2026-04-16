@@ -33,40 +33,6 @@ Desarrollador con enfoque en la intersección entre software robusto y análisis
 
 ---
 
-##  Proyectos Destacados
-
-### 🔍 [CV-Analyzer](https://github.com/PabloGonzGar/cv-analyze)
-> Sistema de clasificación automática de candidatos mediante análisis de afinidad con descripciones de puesto.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-1D9E75?style=flat)
-![IA](https://img.shields.io/badge/IA-FF6F00?style=flat)
-
-Herramienta que analiza múltiples perfiles profesionales y determina su compatibilidad con una oferta de empleo específica mediante procesamiento de datos avanzado.
-
----
-
-### 🎬 [VisionCine — TFG](https://github.com/apc2005/VisionCine)
-> Plataforma social de cine con gestión de grandes volúmenes de datos a través de APIs externas.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=flat)
-
-Incluye personalización de perfiles, sistemas de puntuación y listas dinámicas de usuario.
-
----
-
-### 🗺️ [A* Pathfinding](https://github.com/apc2005/A-Pathfinding)
-> Implementación de búsqueda de rutas óptimas en cuadrículas con obstáculos.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Algoritmos](https://img.shields.io/badge/Algoritmos-555555?style=flat)
-
-Demuestra habilidades en resolución de problemas algorítmicos complejos con lógica limpia y eficiente.
-
----
-
 ##  Formación
 
 | Titulación | Centro |

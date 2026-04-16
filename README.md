@@ -41,4 +41,4 @@ Implementación lógica de un algoritmo de búsqueda de rutas óptimas en cuadr�
 
 * **Localización:** Sevilla, España
 * **Email:** antonio.perez.carmona.2005@gmail.com
-* **LinkedIn:** [Tu enlace aquí]
+* **LinkedIn:** (https://www.linkedin.com/in/antonio-p%C3%A9rez-carmona-1b7a633a0/)

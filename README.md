@@ -14,7 +14,11 @@
 
 ### Perfil
 
-Desarrollador con especialización en Inteligencia Artificial y Big Data, enfocado en el desarrollo de software robusto y en el análisis avanzado de datos. Interesado en la lógica interna de los sistemas y en la optimización de procesos mediante soluciones técnicas eficientes.
+Desarrollador con especialización en Inteligencia Artificial y Big Data, enfocado en construir software robusto y en el análisis avanzado de datos. Me interesa comprender cómo funcionan los sistemas en profundidad para crear soluciones eficientes y bien diseñadas.
+
+Me considero una persona curiosa, constante y comprometida. Disfruto aprendiendo y profundizando en las tecnologías que utilizo, me adapto con facilidad a nuevos entornos y valoro el trabajo en equipo y el feedback como vías de mejora continua.
+
+Busco una oportunidad para seguir creciendo como desarrollador, afrontando retos reales y aportando una actitud proactiva, aprendizaje continuo y un fuerte interés en el desarrollo web y la inteligencia artificial.
 
 ---
 
